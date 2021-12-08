@@ -1,0 +1,14 @@
+.jumbotron {
+    margin: 0;
+    padding: 25px;
+    background-image: linear-gradient(to top, rgb(66, 163, 201), rgb(65, 77, 143));
+  }
+  
+  .navbar {
+    background-color: rgb(42, 23, 131);
+  }
+
+  .btn{
+    background-color:#b36511;
+    color:white;
+  }
